@@ -1,1 +1,1 @@
-Script that displays contents of current working directory including hidden files
+Script that displays group ids,hidden files and contents of working directory in long formart
