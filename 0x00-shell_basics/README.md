@@ -1,1 +1,1 @@
-Script that prints the absolute path
+Script to list contents of your directory
