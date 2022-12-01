@@ -1,1 +1,1 @@
-Script that prints all groups current user is part of
+Script that changes owner from hello to betty
