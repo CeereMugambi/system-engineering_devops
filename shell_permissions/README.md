@@ -1,1 +1,1 @@
-script that prints the effective username of current user
+Script that prints all groups current user is part of
