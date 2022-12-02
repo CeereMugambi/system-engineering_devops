@@ -1,1 +1,1 @@
-Script that adds execute permissions to file owner,group owner and all users
+Script that adds rwx permissions to all usres only
