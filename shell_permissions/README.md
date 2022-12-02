@@ -1,1 +1,1 @@
-Scrippt that adds execute permission to file1
+Script that adds multiple permissions fo file1
