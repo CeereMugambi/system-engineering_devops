@@ -1,1 +1,1 @@
-Script that adds multiple permissions fo file1
+Script that adds execute permissions to file owner,group owner and all users
