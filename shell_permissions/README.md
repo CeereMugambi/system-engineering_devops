@@ -1,1 +1,1 @@
-Script that adds rwx permissions to all usres only
+Script that add rwx r-x wx permissions
