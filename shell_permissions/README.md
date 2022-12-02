@@ -1,1 +1,1 @@
-Script that changes owner from hello to betty
+Script that creates a file
